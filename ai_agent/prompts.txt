@@ -1,0 +1,33 @@
+Sample Prompts for Improved AI Agent:
+
+Greetings:
+- Hello
+- Hi there
+- Hey
+
+Python Questions:
+- What is Python?
+- Tell me about Python
+- Python programming
+
+SQL Questions:
+- What is SQL?
+- How does SQL work?
+- Database queries
+
+Data Questions:
+- What is data analysis?
+- How to process data?
+- Data insights
+
+Farewells:
+- Bye
+- Goodbye
+- See you later
+
+Context Testing:
+- Ask "What is Python?" then "Tell me more" - should reference previous topic
+- Multiple questions on same topic show context awareness
+
+Unknown:
+- What is machine learning? (will get unknown response)
